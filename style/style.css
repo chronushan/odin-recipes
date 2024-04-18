@@ -1,9 +1,10 @@
 #title{
  
     padding: 10px 10px;
-    margin: 0 0 20px;
+    margin: 0 0 30px;
     color: ivory;
     background-color: brown;
+    text-align: center;
 }
 
 *{
@@ -13,3 +14,14 @@
 p{
     font-size: large;
 }
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+h2,li{
+    display: inline-block;
+    margin: 0 40%;
+}
+
