@@ -1,0 +1,19 @@
+body {
+	background-color: honeydew;
+	margin: 50px;
+	text-align: center;
+	box-sizing: border-box;
+	font-family: cursive;
+}
+
+.title {
+	color: olivedrab;
+}
+
+h2 {
+	color: purple;
+}
+
+ul {
+	display: inline-block;
+}
